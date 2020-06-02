@@ -1,0 +1,5 @@
+--std=c89
+-pedantic
+-Werror
+-Wall
+-lm
